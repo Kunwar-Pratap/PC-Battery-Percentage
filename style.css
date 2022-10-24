@@ -30,7 +30,7 @@ body {
     cursor: default;
 }
 
-.battery {
-    color: rgb(245, 70, 70);
+.battery-level {
+    color: rgb(245, 70, 70)!important;
     font-size: 2rem;
 }
